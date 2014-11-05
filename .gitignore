@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# MOOC SVN examples
+ideal_svn_examples/*
