@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"entry",
+				"entry_filter"
+			],
+			[
+				"en",
+				"entry_filter"
+			],
+			[
+				"Ex",
+				"Expense"
+			],
+			[
+				"da",
+				"date_min"
+			],
+			[
+				"Exp",
+				"Expenses"
+			],
+			[
+				"lo",
+				"lower	function"
+			],
+			[
+				"c",
+				"class	New Class"
+			],
+			[
+				"typ",
+				"type_id"
+			],
+			[
+				"En",
+				"Entry_Value"
+			],
+			[
+				"nu",
+				"Number"
+			],
+			[
+				"Ty",
+				"TypeError	class"
+			],
+			[
+				"get_",
+				"get_expenses_by_user"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"exc",
+				"except	keyword"
+			],
+			[
+				"to",
+				"total_sum"
+			],
+			[
+				"usr",
+				"users_row"
+			],
+			[
+				"tot",
+				"total_data_row"
+			],
+			[
+				"us",
+				"users_columns"
+			],
+			[
+				"izi",
+				"izip_longest	class"
+			],
+			[
+				"fir",
+				"first_row_value"
+			],
+			[
+				"add",
+				"add_row"
+			],
+			[
+				"total_row_",
+				"total_row_data"
+			],
+			[
+				"exp",
+				"expenses_table"
+			],
+			[
+				"use",
+				"users_row"
+			],
+			[
+				"sta",
+				"standard_row"
+			],
+			[
+				"expe",
+				"expense	forflow"
+			],
+			[
+				"expen",
+				"expenses_table"
+			],
+			[
+				"curr",
+				"current_account"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"ex",
+				"current_expenses_by_user"
+			],
+			[
+				"get",
+				"get_expenses_by_user"
+			],
+			[
+				"curre",
+				"current_account"
+			],
+			[
+				"l",
+				"lru_cache"
+			],
+			[
+				"format",
+				"format_spec"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"new",
+				"new_category"
+			],
+			[
+				"exce",
+				"exception_message"
+			],
+			[
+				"has",
+				"has_category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"fo",
+				"food_category"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"ent",
+				"entry_item_str"
+			],
+			[
+				"date",
+				"date	statement"
+			],
+			[
+				"pri",
+				"print	function"
+			],
+			[
+				"_e",
+				"_entries	statement"
+			],
+			[
+				"account",
+				"account	class"
+			],
+			[
+				"cl",
+				"class	New Class"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"we",
+				"web	module"
+			],
+			[
+				"in",
+				"index	module"
+			],
+			[
+				"find",
+				"find_packages	function"
+			],
+			[
+				"setup",
+				"setuptools	module"
+			],
+			[
+				"long",
+				"long_description	statement"
+			],
+			[
+				"impot",
+				"import	keyword"
+			],
+			[
+				"dis",
+				"distutils	module"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ele",
+				"elementClasses"
+			],
+			[
+				"content",
+				"contentHtml"
+			],
+			[
+				"conten",
+				"contentUri"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"bae",
+				"baseLink"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ba",
+				"baseLink"
+			],
+			[
+				"Hu",
+				"HumanCodersNewsBridge"
+			],
+			[
+				"siteTi",
+				"siteTitleElement"
+			],
+			[
+				"sitet",
+				"siteTitleLinkElement"
+			],
+			[
+				"plain",
+				"plaintext"
+			],
+			[
+				"uri",
+				"uriElement"
+			],
+			[
+				"rel",
+				"rel=nofollow"
+			],
+			[
+				"no",
+				"notify-send"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"ber",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"hea",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"arkdow",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"break",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"replp",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"conveta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Convert Case: Swap Case"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"erro",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"replshe",
+				"SublimeREPL: Shell"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"replshell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl pstc",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"istal",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"glue()",
+			"glue",
+			"pwd",
+			"pw",
+			"ll",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/florian/Dev/IDEAL_MOOC"
+	],
+	"file_history":
+	[
+		"/home/florian/Dev/IDEAL_MOOC/README.md",
+		"/home/florian/.ssh/id_dsa_github.pub",
+		"/home/florian/Téléchargements/script_install_bepatient_on_fedora.sh",
+		"/home/florian/.ssh/known_hosts",
+		"/home/florian/.bashrc",
+		"/home/florian/.pythonrc.py",
+		"/etc/bashrc",
+		"/home/florian/Dev/hyphd_code_sessions/ateliers-open-geek/Atelier#2.md",
+		"/home/florian/Dev/hyphd_code_sessions/Notes_coding_session_HYPhD.md",
+		"/home/florian/Documents/doc/la paillasse/Prez des labs",
+		"/home/florian/Documents/doc/la paillasse/AIandVA.mdown",
+		"/home/florian/Documents/doc/bioinformatique/these_jonathan_barnoud.mdown",
+		"/home/florian/.local/share/applications/skype.desktop",
+		"/home/florian/.virtualenvs/MyLittleBudget/.project",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget.sublime-project",
+		"/home/florian/Dev/mylittlebudget/mylittebudget.sublime-project",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget/core.py",
+		"/home/florian/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/florian/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/florian/Dev/mylittlebudget/setup.py",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget/web/__init__.py",
+		"/home/florian/Dev/mylittlebudget/scripts/mylittlebudget.py",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget/__init__.py",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget/web/index.py",
+		"/home/florian/Dev/mylittlebudget/mylittlebudget/web/templates/__init__.py",
+		"/home/florian/Dev/MyLittleBudget/scripts/mylittlebudget.py",
+		"/home/florian/Dev/MyLittleBudget/setup.py",
+		"/home/florian/Dev/MyLittleBudget/src/web/templates/index.py",
+		"/home/florian/Dev/MyLittleBudget/src/web/templates/main.py",
+		"/home/florian/Dev/MyLittleBudget/src/mylittlebudget.py",
+		"/home/florian/.virtualenvs/test/bin/mylittlebudget.py",
+		"/home/florian/Dev/MyLittleBudget/MANIFEST.in",
+		"/home/florian/Dev/MyLittleBudget/src/MyLittleBudget.egg-info/PKG-INFO",
+		"/home/florian/Dev/MyLittleBudget/src/__init__.py",
+		"/home/florian/Dev/MyLittleBudget/src/mylittlebudget/index.py",
+		"/home/florian/Dev/MyLittleBudget/src/mylittlebudget/__init__.py",
+		"/home/florian/Dev/MyLittleBudget/mylittlebudget.py",
+		"/home/florian/Dev/rss-bridge/bridges/HumanCodersNewsBridge.php",
+		"/home/florian/Dev/rss-bridge/index.php",
+		"/home/florian/Dev/rss-bridge/vendor/simplehtmldom/simple_html_dom.php",
+		"/home/florian/Dev/rss-bridge/bridges/WhydBridge.php",
+		"/home/florian/Dev/rss-bridge/bridges/WakkuwakkuBridge.php",
+		"/home/florian/Dev/rss-bridge/php.ini",
+		"/home/florian/Dev/rss-bridge/bis_php.ini",
+		"/home/florian/terminal.glue",
+		"/home/florian/.bash_profile",
+		"/home/florian/.profile",
+		"/opt/byzanz/byzanz-gui.sh",
+		"/opt/byzanz/byzanz-record-region.sh",
+		"/opt/byzanz/byzanz-record-window.sh"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"](",
+			"[",
+			"count",
+			"count=",
+			"count",
+			"total",
+			"get_expenses_by_user",
+			"is_credit",
+			"is_expense",
+			"total_sum",
+			"repeat",
+			"total_row_label",
+			"total_row_data",
+			"users_names",
+			"user_names",
+			"name",
+			"has_category",
+			"value",
+			"new_value",
+			"value",
+			"entries",
+			",",
+			"user",
+			"trim",
+			"arg",
+			"3",
+			"v3",
+			"content",
+			"http://www.allocine.fr",
+			"danstonchat",
+			"DansTonChat",
+			"danstonchat",
+			"DansTonChat",
+			"DansTonChatBridge",
+			"--",
+			"\n--",
+			"	AZEezreafdfsbkej"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"project": "ideal_mooc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"setu",
+				"setup.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
