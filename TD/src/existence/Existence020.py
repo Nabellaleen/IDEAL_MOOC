@@ -39,8 +39,12 @@ class Existence020(Existence010):
 
     def step(self):
         experience = self.get_previous_experience()
-        if self.get_mood() is self.Mood.PAINED:
+        if self.get_mood() in [self.Mood.PAINED, self.Mood.BORED]:
             experience = self._get_other_experience(experience)
+            self.set_self_satisfaction_counter(0)
+        else:
+            # Do, one more time, the same experiment
+            self.inc_self_satisfaction_counter()
 
         result = self.return_result_010(experience)
 
@@ -51,6 +55,9 @@ class Existence020(Existence010):
             self.set_mood(self.Mood.PLEASED)
         else:
             self.set_mood(self.Mood.PAINED)
+
+        if self.get_self_satisfaction_counter() >= self.BOREDOME_LEVEL:
+            self.set_mood(self.Mood.BORED)
 
         self.set_previous_experience(experience)
 
