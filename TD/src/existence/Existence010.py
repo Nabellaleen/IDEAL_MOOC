@@ -31,15 +31,15 @@ class Existence010(Existence):
     BOREDOME_LEVEL = 4
 
     def __init__(self):
-        self._init_existence()
-
-    def _init_existence(self):
         self._experiences = {}
         self._interactions = {}
         self._results = {}
         self._mood = self.Mood.SELF_SATISFIED
         self.set_self_satisfaction_counter(0)
 
+        self._init_existence()
+
+    def _init_existence(self):
         e1 = self._add_or_get_experience(self.LABEL_E1)
         self._add_or_get_experience(self.LABEL_E2)
         self.set_previous_experience(e1)
@@ -72,14 +72,18 @@ class Existence010(Existence):
                                    result.get_label(),
                                    self.get_mood())
 
+    def _get_primitive_interaction_label(self, experience, result):
+        return '{0}{1}'.format(experience.get_label(),
+                               result.get_label())
+
     def _add_or_get_primitive_interaction(self, experience, result):
         """ Create an interaction as a tuple <experience, result>.
             @param experience: The experience.
             @param result: The result.
             @return The created interaction
         """
-        interaction_label = '{0}{1}'.format(experience.get_label(),
-                                            result.get_label())
+        interaction_label = self._get_primitive_interaction_label(experience,
+                                                                  result)
         interaction = self._add_or_get_interaction(interaction_label)
         interaction.set_experience(experience)
         interaction.set_result(result)
